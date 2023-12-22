@@ -1,4 +1,4 @@
-# Hi👋
+# Hi 👋
 
 I am a beginner developer  
 my main language is javascript
