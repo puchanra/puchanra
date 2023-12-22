@@ -3,6 +3,8 @@
 I am a beginner developer  
 my main language is `javascript`
 
+![](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
+
 ## I'm currently focused on learning:
 ### 1. JavaScript Basics:
 
