@@ -1,7 +1,7 @@
 # Hi 👋
 
 I am a beginner developer  
-my main language is javascript
+my main language is `javascript`
 
 ## I'm currently focused on learning:
 ### 1. JavaScript Basics:
